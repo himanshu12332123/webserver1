@@ -30,7 +30,6 @@ All three were tested using **Apache JMeter** to compare performance under concu
 
 Check the attached images for test results.
 
----
 
 ## 📈 Results Summary
 
